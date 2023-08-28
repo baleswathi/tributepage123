@@ -1,0 +1,83 @@
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+    <style>         
+        body {  
+            background-color: #f0f5f3;  
+            margin: 20%;  
+        }  
+        #title {  
+            text-align: center;  
+            text-shadow: 5px 5px 10px white;  
+            font-size: 8vh;  
+        }  
+        img {  
+            display: inline-block;  
+            width: 100%;  
+        }     
+        #caption {  
+            font-size: 19px;  
+            font-family:sans-serif;  
+            color: black;  
+        }  
+        div#tribute-data {  
+            background-color: rgb(46, 139, 87, 0.25);  
+            box-shadow: 20px 20px 20px #96c996;  
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+            padding: 25px 25px;  
+            margin: 11px;  
+            margin-top: 50px;  
+        }  
+        h1.title-vk {  
+            font-size: 35px;  
+            color: white;  
+            text-align: center;  
+            text-shadow: 5px 6px 10px black;  
+        }     
+    </style>  
+</head>  
+<body>  
+    <main id="main">  
+        <!-- Title of the web page The snake -->  
+        <h1 id="title">  
+            SNAKE
+        </h1>  
+        <div id="img">  
+            <!--Image of the The snake-->  
+            <img src="https://as1.ftcdn.net/v2/jpg/03/29/17/34/1000_F_329173472_j67YlvY6qCWwYqhKRvpczzuGoGcahieG.jpg"id="image"  
+                alt="snake">  
+            <small id="caption">
+                Slithering through life like a boss.
+            </small>  
+        </div>  
+        <div id="tribute-data">  
+            <h1 class="title-vk">  
+                About The evolution of snake and facts about snakes!
+            </h1>  
+<p>  
+                ☛ Snakes are elongated, limbless, carnivorous reptiles of the suborder Serpentes (/sɜːrˈpɛntiːz/).[2] Like all other squamates, snakes are ectothermic, amniote vertebrates covered in overlapping scales.<br><br>  
+                ☛ Many species of snakes have skulls with several more joints than their lizard ancestors, enabling them to swallow prey much larger than their heads (cranial kinesis).<br><br>  
+                ☛ To accommodate their narrow bodies, snakes' paired organs (such as kidneys) appear one in front of the other instead of side by side, and most have only one functional lung. Some species retain a pelvic girdle with a pair of vestigial claws on either side of the cloaca.<br><br>  
+                ☛ Lizards have independently evolved elongate bodies without limbs or with greatly reduced limbs at least twenty-five times via convergent evolution, leading to many lineages of legless lizards.[3] These resemble snakes, but several common groups of legless lizards have eyelids and external ears, which snakes lack, although this rule is not universal (see Amphisbaenia, Dibamidae, and Pygopodidae).
+                <br><br> 
+  ☛Living snakes are found on every continent except Antarctica, and on most smaller land masses; exceptions include some large islands, such as Ireland, Iceland, Greenland, the Hawaiian archipelago, and the islands of New Zealand, as well as many small islands of the Atlantic and central Pacific oceans.[4] Additionally, sea snakes are widespread throughout the Indian and Pacific oceans.
+                <br><br>
+  ☛Around thirty families are currently recognized, comprising about 520 genera and about 3,900 species.[5] They range in size from the tiny, 10.4 cm-long (4.1 in) Barbados threadsnake[6] to the reticulated python of 6.95 meters (22.8 ft) in length.[7] The fossil species Titanoboa cerrejonensis was 12.8 meters (42 ft) long.[8] 
+                <br><br> ☛  The fossil record of snakes is relatively poor because snake skeletons are typically small and fragile making fossilization uncommon.
+                <br><br> ☛  Fossils readily identifiable as snakes (though often retaining hind limbs) first appear in the fossil record during the Cretaceous period.
+                <br><br> ☛The earliest known true snake fossils (members of the crown group Serpentes) come from the marine simoliophiids, the oldest of which is the Late Cretaceous (Cenomanian age) Haasiophis terrasanctus,[1] dated to between 112 and 94 million years old.
+                <br><br> ☛ Front limbs are nonexistent in all known snakes.
+                <br><br> ☛ This is caused by the evolution of their Hox genes, controlling limb morphogenesis. 
+                <br><br> ☛ Many modern snake groups originated during the Paleocene, alongside the adaptive radiation of mammals following the extinction of (non-avian) dinosaurs. 
+                <br><br> ☛ There are over 500 million snakes!
+                <br><br> ☛ There is fossil evidence to suggest that snakes may have evolved from burrowing lizards,[21] during the Cretaceous Period.  
+                <br><br>   
+            </p>  
+        </div>  
+        <br>  
+    </main>  
+</body>  
+</html>
+  
+
+  
